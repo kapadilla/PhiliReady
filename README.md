@@ -34,7 +34,7 @@ Key features include:
 
 - Frontend Repository: https://github.com/jrmellpaz/PhiliReady.git
 - Backend Repository: https://github.com/jrmellpaz/PhiliReady-API.git
-- Video Demo: 
+- Video Demo: https://drive.google.com/drive/folders/1CloO4Y2NhK2YPoSXIm1cEpJ1nUxxNyWQ?usp=sharing
 
 ---
 
