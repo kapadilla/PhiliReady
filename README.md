@@ -114,9 +114,6 @@ Access the backend repository here: https://github.com/jrmellpaz/PhiliReady-API.
    ```
    The API will be available at `http://localhost:8000`. Interactive API docs are at `http://localhost:8000/docs`.
 
-#### Deployment (Heroku)
-The backend includes a `Procfile` for Heroku deployment. Ensure the `DATABASE_URL` config var is set in your Heroku app settings before pushing.
-
 ---
 
 ### Frontend Setup
