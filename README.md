@@ -48,7 +48,7 @@ Key features include:
 | Data Processing | Pandas, NumPy |
 | Authentication | JWT via `python-jose` + `passlib/bcrypt` |
 | Weather Integration | Open-Meteo API via `httpx` |
-| Deployment | Heroku |
+
 
 ### Frontend
 | Layer | Technology |
